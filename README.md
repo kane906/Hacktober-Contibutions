@@ -1,2 +1,0 @@
-# Hacktober-Contibutions
-Hacktober Contributions
